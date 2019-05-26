@@ -15,6 +15,8 @@ The goal is to measure the diameter distribution of the output filament. This ex
 * [numpy](https://pypi.org/project/numpy/)
 * [matplotlib](https://pypi.org/project/matplotlib/)
 * [seaborn](https://pypi.org/project/seaborn/)
+* or [pandas](https://pypi.org/project/pandas/)
 
+<br/> 
 ### Step by step tutorial
 For the full tutorial please see a [jupyter notebook](recyclebot.ipynb) or an uploaded [pdf file](recyclebot.pdf). A pure Python code is located [here](recyclebot.py). <br/> 
